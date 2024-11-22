@@ -1,0 +1,18 @@
+#menu{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: block;
+}
+
+.container{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.menu-button{
+    margin: 1em 0em 0em 0em;
+    width: 80%;
+}
